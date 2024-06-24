@@ -1,0 +1,12 @@
+proc swap(int a,int b)
+int k 
+k=b
+b=a
+a=k
+end
+program
+int a,s
+a=25
+s=99
+swap(a,s)
+end

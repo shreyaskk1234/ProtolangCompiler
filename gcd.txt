@@ -1,0 +1,17 @@
+long a,b,c
+program
+a=9999
+b=3333
+while(a!=b)
+begin
+if(a>b)
+begin
+a=a-b
+end
+else
+begin
+b=b-a
+end
+end
+c=a
+end

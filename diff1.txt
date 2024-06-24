@@ -1,0 +1,13 @@
+program
+int a,b,diff
+a=1000
+b=1010
+if(a>b)
+begin
+diff=a-b
+end
+else
+begin
+diff=b-a
+end
+end

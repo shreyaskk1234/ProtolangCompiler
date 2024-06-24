@@ -1,0 +1,12 @@
+proc natsum(int n,int sum)
+int i
+for(i=1;i<=n;i=i+1)
+begin
+sum=sum+i
+end
+end
+program
+int a,s
+a=25
+natsum(a,s)
+end
